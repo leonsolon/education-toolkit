@@ -6,7 +6,7 @@
 
 Montamos um kit de ferramentas que os instrutores universitários podem usar para preparar facilmente laboratórios, trabalhos de casa ou aulas. O conteúdo é projetado de forma independente, de modo que possa ser facilmente incorporado ao currículo existente. Este conteúdo é **gratuito** e usa tecnologias Open Source amplamente conhecidas (`transformers`, `gradio`, etc).
 
-Como alternativa, você pode solicitar que alguém da equipe do Hugging Face execute os tutoriais para sua turma por meio do [ML demo.cratization tour](https://www.notion.so/ML-Demo-cratization-tour-with-66847a294abd4e9785e85663f5239652 ) iniciativa!
+Como alternativa, você pode solicitar que alguém da equipe do Hugging Face execute os tutoriais para sua turma por meio da iniciativa do [Tour de Demo.Cratização de ML](https://www.notion.so/ML-Demo-cratization-tour-with-66847a294abd4e9785e85663f5239652) !
 
 Você pode encontrar todos os tutoriais e recursos que reunimos [aqui](https://www.notion.so/Education-Toolkit-7b4a9a9d65ee4a6eb16178ec2a4f3599).
 

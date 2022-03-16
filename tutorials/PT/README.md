@@ -1,16 +1,16 @@
 # 🤗 Kit de ferramentas de educação
 
-<à parte>
+<aside>
 
 👋 **Bem-vindo!**
 
 Montamos um kit de ferramentas que os instrutores universitários podem usar para preparar facilmente laboratórios, trabalhos de casa ou aulas. O conteúdo é autocontido para que possa ser facilmente incorporado a um currículo existente. Este conteúdo é **gratuito** e usa tecnologias Open Source bem conhecidas (`transformers`, `gradio`, etc).
 
-Como alternativa, você pode solicitar que alguém da equipe do Hugging Face execute os tutoriais para sua turma por meio do [ML demo.cratization tour](https://www.notion.so/ML-Demo-cratization-tour-with-66847a294abd4e9785e85663f5239652 ) iniciativa!
+Como alternativa, você pode solicitar que alguém da equipe do Hugging Face execute os tutoriais para sua turma por meio do [ML demo.cratization tour](https://www.notion.so/ML-Demo-cratization-tour-with-66847a294abd4e9785e85663f5239652) iniciativa!
 
 Além dos tutoriais, também compartilhamos outros recursos para aprofundar o ML ou que podem auxiliar na elaboração do conteúdo do curso.
 
-</aparte>
+</aside>
 
 Gostaria de encontrar os tutoriais em outros idiomas? Você pode encontrar todas as traduções [aqui!](https://github.com/huggingface/education-toolkit#-languages-and-translations)
 
@@ -26,7 +26,7 @@ Gostaria de encontrar os tutoriais em outros idiomas? Você pode encontrar todas
 >
 > **_Duração: 20-40 minutos_**
 >
-> 👉 [clique aqui para acessar o tutorial](https://www.notion.so/Workshop-A-Tour-through-the-Hugging-Face-Hub-2098e4bae9ba4288857e85c87ff1c851) ou 👩‍🏫 [os slides da palestra](https ://docs.google.com/presentation/d/1zQqpFTcpNLV7haj2Inw2qKHq8DjfZEaiObW1ZkLvPWM/edit?usp=sharing).
+> 👉 [clique aqui para acessar o tutorial](https://www.notion.so/Workshop-A-Tour-through-the-Hugging-Face-Hub-2098e4bae9ba4288857e85c87ff1c851) ou 👩‍🏫 [os slides da palestra](https://docs.google.com/presentation/d/1zQqpFTcpNLV7haj2Inw2qKHq8DjfZEaiObW1ZkLvPWM/edit?usp=sharing).
 
 ### 2️⃣ Crie e hospede demonstrações de aprendizado de máquina com Gradio & Hugging Face
 
@@ -57,11 +57,11 @@ Gostaria de encontrar os tutoriais em outros idiomas? Você pode encontrar todas
 
 ## **Outros recursos para aprender do seu jeito!**
 
-### **O 🤗 Curso**
+### **O Curso do 🤗 **
 
 Oferecemos um curso (gratuito e sem anúncios) que ensina sobre processamento de linguagem natural (PLN) usando bibliotecas do ecossistema **[Hugging Face](https://huggingface.co/)**.
 
-👉 [clique aqui para acessar o 🤗 Curso](https://huggingface.co/course/chapter1/1)
+👉 [clique aqui para acessar o Curso do 🤗](https://huggingface.co/course/chapter1/1)
 
 <aside>
 💡 Este curso:
@@ -71,7 +71,7 @@ Oferecemos um curso (gratuito e sem anúncios) que ensina sobre processamento de
 - Não espera conhecimento prévio de **[PyTorch](https://pytorch.org/)** ou **[TensorFlow](https://www.tensorflow.org/)** , embora alguma familiaridade com qualquer um dos esses vão ajudar
 </aside>
 
-### **O 🤗 Livro**
+### **O Livro do 🤗**
 
 <img alt="book-cover" height=200 src="../../images/book_cover.jpg" id="book-cover"/>
 

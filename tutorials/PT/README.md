@@ -6,7 +6,7 @@
 
 Montamos um kit de ferramentas que os instrutores universitários podem usar para preparar facilmente laboratórios, trabalhos de casa ou aulas. O conteúdo é autocontido para que possa ser facilmente incorporado a um currículo existente. Este conteúdo é **gratuito** e usa tecnologias Open Source bem conhecidas (`transformers`, `gradio`, etc).
 
-Como alternativa, você pode solicitar que alguém da equipe do Hugging Face execute os tutoriais para sua turma por meio do [ML demo.cratization tour](https://www.notion.so/ML-Demo-cratization-tour-with-66847a294abd4e9785e85663f5239652) iniciativa!
+Como alternativa, você pode solicitar que alguém da equipe do Hugging Face execute os tutoriais para sua turma por meio do [Tour de Demo.cratização de ML](https://www.notion.so/ML-Demo-cratization-tour-with-66847a294abd4e9785e85663f5239652) iniciativa!
 
 Além dos tutoriais, também compartilhamos outros recursos para aprofundar o ML ou que podem auxiliar na elaboração do conteúdo do curso.
 
@@ -57,7 +57,7 @@ Gostaria de encontrar os tutoriais em outros idiomas? Você pode encontrar todas
 
 ## **Outros recursos para aprender do seu jeito!**
 
-### **O Curso do 🤗 **
+### **O Curso do 🤗**
 
 Oferecemos um curso (gratuito e sem anúncios) que ensina sobre processamento de linguagem natural (PLN) usando bibliotecas do ecossistema **[Hugging Face](https://huggingface.co/)**.
 
@@ -67,7 +67,7 @@ Oferecemos um curso (gratuito e sem anúncios) que ensina sobre processamento de
 💡 Este curso:
 
 - Requer bons conhecimentos de Python
-- É melhor fazer depois de um curso introdutório de deep learning, como **[fast.ai's](https://www.fast.ai/)** **[Practical Deep Learning for Coders](https://course. fast.ai/)** ou um dos programas desenvolvidos por **[DeepLearning.AI](https://www.deeplearning.ai/)**
+- É melhor fazer depois de um curso introdutório de deep learning, como **[fast.ai's](https://www.fast.ai/)** **[Practical Deep Learning for Coders](https://course.fast.ai/)** ou um dos programas desenvolvidos por **[DeepLearning.AI](https://www.deeplearning.ai/)**
 - Não espera conhecimento prévio de **[PyTorch](https://pytorch.org/)** ou **[TensorFlow](https://www.tensorflow.org/)** , embora alguma familiaridade com qualquer um dos esses vão ajudar
 </aside>
 
